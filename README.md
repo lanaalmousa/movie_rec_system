@@ -9,5 +9,5 @@ The dataset includes various key features, including the Title, Genres, Release 
 The dataset’s size and statistics included a million movies with various ranges. It also had descriptive data including popularity scores, vote counts, and movie summaries. Due to the extensive amount of missing data, only a subset was selected (100k instances) before the Modeling phase.  
 For the UI, Streamlit was used due to its rapid prototyping capabilities, Python-native integration, and ability to create interactive web apps with minimal code. Users input their preferences via a text box, triggering the system to generate top five recommendations.
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/caae1504-ce00-4a6a-8428-0ed7786f6316" />
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/fc744f87-5670-46d8-8c2e-8a3a0b848632" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/caae1504-ce00-4a6a-8428-0ed7786f6316" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/fc744f87-5670-46d8-8c2e-8a3a0b848632" />
